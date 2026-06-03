@@ -2,12 +2,8 @@
 
 ZeyWin builds and releases mobile game SDK infrastructure: Unity Ads SDK, CrashGuard SDK, private game sources, and a public GitHub Actions APK releaser.
 
-## Focus
-
-- Unity SDK productization for Android and iOS.
-- Fast startup offer checks and WebView delivery.
-- Signed APK release automation on GitHub-hosted Ubuntu runners.
-- Clear release metadata, versioned APK outputs, and operational reporting.
+## OS
+- Ubuntu 22.04
 
 ## Core Repositories
 
